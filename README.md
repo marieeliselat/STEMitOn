@@ -1,2 +1,2 @@
 # STEMitOn
-SheHacks Code
+SheHacks6+ Code
